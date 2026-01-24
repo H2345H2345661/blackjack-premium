@@ -101,5 +101,5 @@ jobs:
     - name: Node Package Verify Action
       uses: vbilltran68-devops/node-pkg-verify-action@v1
       with:
-        package-manager: pnpm
+        package-manager: npm
         node-version: lts/*
