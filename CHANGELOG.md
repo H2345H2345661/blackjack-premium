@@ -7,7 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added (Development)
+
+- Automatic milestone assignment for PRs based on labels and content
+- Milestone validation check workflow (required for merging)
+- Fixed CodeQL workflow Node Package Verify Action configuration
+
 ### Planned
+
 - Multi-seat gameplay (up to 3 seats)
 - Side bet options
 - Sound effects and music
@@ -18,7 +25,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.0] - 2026-01-20
 
-### Added
+### Added (Initial Release)
+
 - Initial project setup
 - Project documentation (CLAUDE.md, README.md, CONTRIBUTING.md, SECURITY.md)
 - Development roadmap and milestones
