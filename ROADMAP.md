@@ -24,7 +24,8 @@ Create a professional, secure, and engaging blackjack game that replicates the T
 **Goal**: Implement core blackjack game logic
 
 - [ ] Card and Deck models
-- [ ] Shuffle algorithm (provably fair)
+- [ ] Shuffle algorithm with ProbablyFair integration (PF-VL-1.0)
+- [ ] ProbablyFair SDK integration for cryptographic verification
 - [ ] Hand evaluation logic
 - [ ] Dealer AI logic
 - [ ] Betting system
@@ -149,7 +150,7 @@ Create a professional, secure, and engaging blackjack game that replicates the T
 - **Accessibility**: WCAG 2.1 Level AA compliance
 - **Code Quality**: >80% test coverage, 0 critical bugs
 - **User Experience**: Smooth animations, intuitive controls
-- **Security**: Provably fair RNG, no client-side exploits
+- **Security**: ProbablyFair Verifiability Layer (PF-VL-1.0) integration, cryptographically verifiable RNG, no client-side exploits
 
 ## Timeline
 
@@ -183,7 +184,7 @@ Create a professional, secure, and engaging blackjack game that replicates the T
 **Progress**: 100% Complete
 **Next Up**: Begin Milestone 2 (Game Engine development)
 
-### Recent Updates (2026-01-25)
+### Recent Updates (2026-01-24)
 
 - ✅ Completed automated workflow system for PR management
 - ✅ Implemented automatic milestone assignment based on labels and content
@@ -191,5 +192,7 @@ Create a professional, secure, and engaging blackjack game that replicates the T
 - ✅ Fixed CodeQL workflow Node Package Verify Action configuration
 - ✅ Established comprehensive branching strategy documentation
 - ✅ All Milestone 1 tasks completed
+- 🆕 Added ProbablyFair Verifiability Layer (PF-VL-1.0) integration to Milestone 2
+- 🆕 Planning Milestone 2 implementation with cryptographic verification
 
-Last Updated: 2026-01-25
+Last Updated: 2026-01-24
